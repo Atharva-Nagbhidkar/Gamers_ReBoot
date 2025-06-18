@@ -2,7 +2,6 @@
 
 **Gamers ReBoot** is a full-stack web application built using Spring Boot. The platform offers a secure, feature-rich experience for users to browse and buy games, with a gamer-themed UI and robust backend architecture.
 
----
 
 ## 🚀 Features
 
@@ -34,7 +33,6 @@
 - **Access Control**: Unauthorised users attempting admin access are blocked.
 - **User Overview**: Admins can monitor user activity and control data.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +41,6 @@
 - **Database**: MySQL
 - **Build Tool**: Maven
 
----
 
 ## ⚙️ Getting Started
 
@@ -67,7 +64,6 @@ To get a local copy up and running, follow these simple steps:
    mvn spring-boot:run
    ```
 
----
 
 ## 🌐 Usage
 
@@ -81,7 +77,6 @@ To get a local copy up and running, follow these simple steps:
    - Proceed to dummy checkout  
    - Admins can manage game listings and users
 
----
 
 ## 📄 License
 
